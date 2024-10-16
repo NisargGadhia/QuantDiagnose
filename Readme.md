@@ -45,7 +45,7 @@ Hyperparameters like learning rate, batch size, and epochs are tuned to achieve 
 
     The model is trained using the ImageDataGenerator on the resampled and augmented dataset.
     Early stopping ensures that training halts when validation accuracy stops improving, while a model checkpoint saves the best version of the model during training.
-    
+
 
 
 ## Quantum Convolutional Neural Network (QCNN) for Autism Classification:
@@ -105,8 +105,16 @@ Contributions to the project are welcome! To contribute:
 5. Open a Pull Request.
 
 
+[![Watch the video](https://i.sstatic.net/iI3WN.png)](https://youtu.be/Q0GBxvunFWA)
+
+
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+
 
 
 
